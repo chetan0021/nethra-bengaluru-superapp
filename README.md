@@ -121,7 +121,7 @@ This approach makes the AI:
 
 ---
 
-## 🏆 What Makes This Hackathon-Worthy
+## 🏆 What Makes This Worthy
 
 ### 🚀 **Innovation**
 - **Agent Steering** technique for rapid AI customization
