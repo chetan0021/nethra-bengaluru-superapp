@@ -196,11 +196,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-Built with ❤️ for Bengaluru by [Your Team Name]
+Built with ❤️ for Bengaluru by Chetan V
 
-- 🐦 Twitter: [@YourHandle](https://twitter.com/yourhandle)
-- 📧 Email: your.email@domain.com
-- 🌐 Website: [yourwebsite.com](https://yourwebsite.com)
+- 📧 Email: chetanv.kar@gmail.com
+
 
 ---
 
